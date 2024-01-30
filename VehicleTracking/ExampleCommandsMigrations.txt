@@ -1,0 +1,3 @@
+MIGRATION EKLEME
+add-migration initial -o DataAccess/Migrations 
+update-database
